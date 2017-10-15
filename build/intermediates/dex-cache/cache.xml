@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        is-multidex="true"
+        jar="/home/aitch/Schreibtisch/Osiris/Android/Osi/app/build/intermediates/incremental-runtime-classes/debug/instant-run.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="caff8e51a24901cfc9cd7e1cf83d84f4cb0c103b">
+        <dex dex="/home/aitch/Schreibtisch/Osiris/Android/Osi/app/build/intermediates/transforms/dex/debug/folders/1000/10000/instant-run_31a5c0b0ff6edb5b1c903d6f57fc43808ff48fa1/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/home/aitch/Schreibtisch/Osiris/Android/Osi/app/build/intermediates/incremental-classes/debug/instant-run-bootstrap.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="fca5ffb776d3673f8070cb828c45118059986132">
+        <dex dex="/home/aitch/Schreibtisch/Osiris/Android/Osi/app/build/intermediates/transforms/dex/debug/folders/1000/10000/instant-run-bootstrap_e11cfdd2c1352dc9ae19e834d737c39945ad82a7/classes.dex" />
+    </item>
+
+</items>
